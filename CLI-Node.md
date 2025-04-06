@@ -3,7 +3,7 @@
 Go to: https://app.hyperbolic.xyz
 
 - Click Create Account by Using ur Gmail
-- On next popup or in Settings, confirm ur phone number to get 1$ of free credits (Optional)
+- On next popup or in Settings, confirm ur phone number to get 1$ of free credits (Compulsory)
 - Go to Settings tab on Hyperbolic dashboard > Scroll down and copy ur API Key
 
 1️⃣ Dependencies for WINDOWS & LINUX & VPS

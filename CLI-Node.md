@@ -68,3 +68,8 @@ cd chatbot-app
 ```
 python3 chatbot.py
 ```
+
+## Delete Node File
+```
+rm -rf ~/chatbot-app
+```

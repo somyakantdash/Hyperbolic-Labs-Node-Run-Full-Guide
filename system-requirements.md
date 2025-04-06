@@ -1,7 +1,5 @@
 # Hardware Requirements 
 
-Official Docs: https://github.com/gensyn-ai/rl-swarm?tab=readme-ov-file
-
 - 4GB RAM and 4 Cores
 - 10GB free disk space
 
